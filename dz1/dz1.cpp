@@ -4,11 +4,11 @@ using namespace std;
 class MAN // ЛЮДИНА
 {
 public:
-	float growth = 170.2;
+	float growth = 157.4;
 	string hair_color = "brown";
-	string name = "Angelina";
+	string name = "Nikol";
 	string gender = "woman";
-	int age = 18;
+	int age = 19;
 	void Walk()
 	{
 		cout << "людина ходить..." << endl;
