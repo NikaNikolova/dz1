@@ -23,7 +23,7 @@ public:
 	}
 	void Laugh()
 	{
-		cout << "ХА-ХА-ХА!" << endl;
+		cout << "ХАХАХА!" << endl;
 	}
 	void Punch()
 	{
@@ -62,7 +62,7 @@ public:
 class MOBILE_PHONE // МОБІЛЬНИЙ ТЕЛЕФОН
 {
 public:
-	string colot_phone = "white";
+	string colot_phone = "black";
 	string brand = "iphone";
 	bool case_phone = true;
 	double prise = 25999; //$
